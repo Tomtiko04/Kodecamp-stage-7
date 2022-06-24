@@ -1,0 +1,10 @@
+post http://localhost:3000/add-location
+Content-Type: application/json
+
+{
+    "name":"Tomtiko",
+    "email":"whoislookfortomtiko@gmail.com",
+    "location_description": "vawlence everywhere",
+    "website": "www.chop.com",
+    "phone":"23"
+}
